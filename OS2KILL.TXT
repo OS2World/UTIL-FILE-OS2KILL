@@ -1,0 +1,31 @@
+/* killos2.c
+
+   A program to remove OS2 system files from the root directory. Don't
+     run this under OS/2 or a DOS Window!  Run from the root directory
+     in DOS non-protected mode (normal DOS).  Will delete OS/2 hidden
+     and non-dos files like 'EA DATA. SF' that can hang around and
+     use up space if you don't realize they are there after deleteing
+     OS/2 from your system.
+
+   compiled under Microsoft C 5.1   ( Bill Gates would be proud!)
+
+   written to delete OS/2 version 2.00 GA.
+
+   Copyright (C) 1992, Hobbitt Software
+
+   This program is FREE.  It is distributed under the agreement as
+     set forth by the GNU project.  The agreement is not included
+     to save space but it may be obtained from any GNU product.  Or,
+     you could just re-write this and call it your own but I'm on the
+     GNU bandwagon, their concept of freedom of information , and taking t
+     his oportunity to tell you to check 'em out.
+
+   Stephen Balbach -> 'Lieben is Lieben'
+
+   11307 Tooks Way
+   Columbia, MD 21044
+   (410) 992-4254
+
+   (looking for a job!! BA Dec.1991 )
+
+*/
